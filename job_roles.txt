@@ -1,7 +1,0 @@
-ROLE GUIDANCE
-Data Entry Operator: data entry, Excel, data validation, accuracy, documentation, computer operations, reporting.
-Administrative Assistant: scheduling, documentation, communication, Excel, office administration, organization.
-Software Developer: programming, software development, GitHub, testing, databases, problem solving.
-Data Analyst: Excel, SQL, data analysis, visualization, reporting, statistics.
-Bioinformatics: bioinformatics, Python, R, biological data, genomics, research, databases.
-Medical Transcriptionist: medical terminology, transcription, documentation, accuracy, typing, confidentiality.
